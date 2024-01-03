@@ -8,6 +8,10 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
+PROBLEM STATEMENT
+
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share revenue in the luxury/business hotels category.
+
 Process included
 1) Importing and verifying data. few transformations and cleaning in power query
 2) Data modeling
